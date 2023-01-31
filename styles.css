@@ -1,0 +1,42 @@
+h1 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+}
+
+/* Navbar */
+.navbar {
+    padding: 30px 40px 10px 30px;
+    background-color: #fff;
+}
+
+.navbar-brand {
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.navbar-nav {
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    font-size: 0.8rem;
+}
+
+.nav-item {
+    padding: 20px;
+}
+
+.about-link:hover {
+    color: #F15BB5;
+}
+
+.info-link:hover {
+    color: #FEE440;
+}
+
+.links-link:hover {
+    color: #00BBF9;
+}
+
+.projects-link:hover {
+    color: #9B5DE5;
+}
