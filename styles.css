@@ -3,9 +3,14 @@ h1 {
     font-weight: bold;
 }
 
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
 /* Navbar */
 .navbar {
-    padding: 30px 40px 10px 30px;
+    padding: 10px 40px 10px 30px;
     background-color: #fff;
 }
 
@@ -39,4 +44,58 @@ h1 {
 
 .projects-link:hover {
     color: #9B5DE5;
+}
+
+/* About */
+
+#about {
+    background-color: #F5F0F6;  
+}
+
+.about-row1 {
+    height: 200px;
+}
+
+.about-row2 {
+    height: 400px;
+}
+
+.about-row3 {
+    height: 200px;
+}
+
+.about-row4 {
+    height: 300px;
+}
+
+.about-row5 {
+    height: 150px;
+}
+
+.about-row6 {
+    height: 250px;
+}
+
+.about-col1 {
+    padding: 0;
+}
+
+.yellow-square {
+    background-color: #FEE440;
+}
+
+.pink-square {
+    background-color: #F15BB5;
+}
+
+.about-text {
+    background-color: #fff;
+}
+
+.about-title {
+    margin: 2rem 0 4rem 2rem;
+}
+
+.about-paragraph {
+
 }

@@ -1,0 +1,19 @@
+{
+  "name": "lily-site",
+  "version": "1.0.0",
+  "description": "My personal website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lily17bl/lily-site-v2.git"
+  },
+  "author": "Lily",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lily17bl/lily-site-v2/issues"
+  },
+  "homepage": "https://github.com/lily17bl/lily-site-v2#readme"
+}
