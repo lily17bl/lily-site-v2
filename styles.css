@@ -3,6 +3,16 @@ h1 {
     font-weight: bold;
 }
 
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
 .container-fluid {
     margin: 0;
     padding: 0;
@@ -98,4 +108,34 @@ h1 {
 
 .about-paragraph {
     margin-left: 2rem;
+}
+
+/* Info */
+
+.info-row1 {
+    height: 400px;
+}
+
+.info-row3 {
+    height: 400px;
+}
+
+.info-title {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.info-list {
+    text-align: center;
+}
+
+.stan-list {
+    background-color: #F5F0F6;
+    text-align: center;
+}
+
+.stan-list-title {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
