@@ -17,3 +17,4 @@ function giveColorToElement( element ) {
 
 giveColorToElement( ".info-link" );
 giveColorToElement( ".links-icon" );
+giveColorToElement( " .nav-link " );
